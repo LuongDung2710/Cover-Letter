@@ -1,0 +1,73 @@
+1) Hi there! Can you help me write a really good cover letter for a Magento Senior Developer position at Retail Reinvented. Let's start with a dynamic opening paragraph that radiates my excitement and passion for the position and aligns with the job description.To help you started here is the job description
+
+About the job
+Retail Reinvented is seeking an experienced Junior Magento 2 Developer who is a strong independent worker and collaborative teammate. Qualified candidates must demonstrate exceptional technical expertise with Magento 2 backend and front-end custom development projects.
+
+Responsibilities
+
+Review code and your project delivery to improve project quality and collaboration with QA Engineers
+Perform Magento 2 customizations and custom module development 
+Deliver back-end development for Magento 2 Commerce projects
+Collaborate on the design and development of new solutions 
+Support front- and back-end Magento 2 development projects
+
+
+Basic Qualifications
+
+At least 3 years of Magento 2 experience (Certification is a plus!)
+Excellent verbal and written communication
+Must have experience developing custom backend and frontend modules for Magento 2
+
+
+Retail Reinvented is an Equal Opportunity Employer and does not discriminate on the basis of race, color, national origin, sex, religion, age, veteran status, disability, or sexual orientation in the employment of the provision of services.
+
+2) Based on my resume where i have over four years in Magento Development, led many successful Magento project, and expertise in architecture, can you help me draft the second paragraph of my cover letter for the Senior Magento Developer position at Retail Reinvented? I want to exphasize how my skills and achievements make me a perfect fit. Here's my resume guidance
+ + About me: 
+
+ Experienced Magento software engineer with over 4 years of expertise. Passionate about crafting scalable e-commerce solutions. Skilled in customizing Magento platforms, optimizing performance, and collaborating with cross-functional teams. Committed to staying updated on industry trends to deliver exceptional results for clients.
+
+ + Highlight Project:
+  a) Melbourne Airport Marketplace   
+ • Description: Managed a marketplace dedicated to Melbourne Airport International purchases, facilitating seamless transactions for customers to buy products and conveniently collect them before departure or upon arrival at the airport.
+ • Role:  Specializing in crafting comprehensive business and technical documentation, offering technical support to developer teams. My expertise extends to database schema design, integrating third-party systems, optimizing performance, and developing modules and themes.
+
+  b) Brisbane Airport Marketplace
+ • Description:  The platform caters to Brisbane Airport International purchases, allowing customers to buy products and collect them from the airport either before departing or upon arrival.
+ • Role: Proficient in business and technical documentation, developer support, database management, external product synchronization, checkout customization, and module/theme development
+
+  c) Tribees Marketplace
+
+ • Description: An Australian-based marketplace that sells and advocates environment-friendly products. A community of customers and buyers who are environmentally ethical who can vote up/down products based on their actual shopping experience and show whether the products are actually environment friendly as advertised.
+ • Role:  Develop custom Single Sign-On (SSO) authentication for customers, overseeing the management of over a million products across multiple website instances along with enhancing performance.
+
+ + Experience:
+
+  a) ST United: Junior Magento Developer 
+  Description: 
+  • Magento Development Fundamentals
+  • Theme Development
+  • Module Customization Development
+  • Mobile App Development ( Flutter )
+
+  b) Borderless Geek: Middle Magento Developer
+  Description:
+  • Database Management including schema designing, data modeling
+  • Team Collaboration
+  • Reviewing Code
+  • Magento Module Customization and Theme Development
+
+  c) QARBI CO., LTD: Senior Magento Develop
+    Description:
+    • Led a team of Junior and Middle developers
+    • Expertise in preparing crucial Technical and Business Requirements
+    • Provided integral Technical Support for the Junior team member
+    • Magento Module Customization and Theme Development
+    • Reviewing Code
+    • Oversaw and confirmed functionality of systems
+
+  + Certification (Certified by Adobe Commerce): 
+    a) Adobe Certified Master – Adobe Commerce Architect 
+    b) Adobe Certified Expert-Adobe Commerce Developer
+    c) Adobe Certified Expert-Adobe Commerce Front-End Developer
+
+3) Can you help me frame a captivating career story for my cover letter for paragraph three? I want to highlight a time when I led a team through a performance issue on Magento Marketplace Live Site and we managed to decrease 25% loading time on product listing page. Make it engaging and reflective of my leadership and problem-solving skill
